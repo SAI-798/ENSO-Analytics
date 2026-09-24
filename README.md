@@ -1,5 +1,6 @@
 # 🌐 ENSO Analytics: Monitoring Climate Anomalies, Economic Losses & Food Security
 
+
 An end-to-end climate intelligence and business analytics dashboard evaluating Equatorial Pacific Sea Surface Temperatures (SST), El Niño & La Niña cycles, global agricultural yields, and socio-economic vulnerabilities. This framework bridges spatial climate data and policy analytics to empower data-driven climate resilience and disaster risk reduction.
 
 ---
