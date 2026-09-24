@@ -63,7 +63,16 @@ An end-to-end climate intelligence and business analytics dashboard evaluating E
 * **Data Modeling:** Advanced DAX metrics for rolling thermal anomalies, variance metrics, ranking, and predictive yield loss indices
 
 ---
+## 📐 Tool Shapes & Visual Component Architecture
 
+| Visual Component | Tool / Shape Used | Purpose / Metric Tracked |
+| :--- | :--- | :--- |
+| **KPI Card Containers** | Rounded Rectangles | Highlights top-level indicators (Total Damage $535B, ONI Peak 2.30, 12.45B Crop Output). |
+| **Filter & Slicer Headers** | Pill Buttons / Custom Shapes | Groups interactive slicers (Country, Event Type, Year Range) for seamless navigation. |
+| **Section Dividers** | Horizontal Lines / Subtle Grids | Logically partitions the interface into Climate Anomalies, Human Vulnerability, and Economic Risk. |
+| **Disaster Breakdown** | Donut / Pie Chart | Displays proportional shares of hydrological (41.73%) vs. meteorological events. |
+| **Thermal & Yield Trends** | Line & Area Charts | Tracks historical ONI fluctuations alongside food price spikes from 2020 to 2023. |
+| **Spatial Analysis** | Geospatial Heat Map | Maps global population vulnerability and economic loss concentration across target regions. |
 ## 📄 License & Citation
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
